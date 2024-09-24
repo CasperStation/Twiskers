@@ -1,0 +1,19 @@
+				@font-face {
+					font-family: 'taki-bold';
+					src: url('../fonts/290Taki-Bold.woff2') format('woff2'),
+						url('../fonts/290Taki-Bold.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.taki-bold{font-family: 'taki-bold' !important;}
+
+						@font-face {
+					font-family: 'vicky-christina';
+					src: url('../fonts/9487Vicky-Christina.woff2') format('woff2'),
+						url('../fonts/9487Vicky-Christina.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.vicky-christina{font-family: 'vicky-christina' !important;}
+
+		
